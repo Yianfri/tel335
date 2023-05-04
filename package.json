@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon jorge.js"
   },
-  "author": "",
+  "author": "Felipe Rodríguez Rodríguez",
   "license": "ISC",
   "keywords": [],
   "description": "",
